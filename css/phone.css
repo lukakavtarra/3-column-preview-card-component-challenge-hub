@@ -1,0 +1,7 @@
+@media only screen and (max-width: 900px) {
+    .column {
+        display: grid;
+        width: 305px;
+        margin: 0 auto;
+    }
+}
